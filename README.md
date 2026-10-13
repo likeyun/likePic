@@ -2,6 +2,10 @@
 
 liKePic 是一款原生 Android 图片拼接与裁剪应用，可将多张照片拼成连续长图。
 
+## 宣传海报
+
+![liKePic 拼图工坊宣传海报](assets/likepic-promo-poster.png)
+
 ## 功能
 
 - 从应用内相册选择 2–12 张照片，并按选择顺序拼接
