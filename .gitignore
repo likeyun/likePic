@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+*.iml
+**/build/
+*.apk
+*.aab
+output/
+codex-*.png
+ss-picker.png
+.DS_Store
+Thumbs.db
