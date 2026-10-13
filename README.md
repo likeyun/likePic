@@ -4,7 +4,7 @@ liKePic 是一款原生 Android 图片拼接与裁剪应用，可将多张照片
 
 ## 宣传海报
 
-![liKePic 拼图工坊宣传海报](assets/likepic-promo-poster.png)
+<img src="https://github.com/likeyun/likePic/blob/main/assets/likepic-promo-poster.png?raw=true" width="300" />
 
 ## 功能
 
@@ -13,10 +13,6 @@ liKePic 是一款原生 Android 图片拼接与裁剪应用，可将多张照片
 - 裁剪最终画面，支持撤销和重置
 - 将拼接结果保存到系统相册 `Pictures/liKePic拼图工坊`
 - 在“关于”页面查看版本信息并检查更新
-
-## 海报
-
-![](https://github.com/likeyun/likePic/blob/main/assets/likepic-promo-poster.png?raw=true)
 
 ## 构建
 
