@@ -14,6 +14,10 @@ liKePic 是一款原生 Android 图片拼接与裁剪应用，可将多张照片
 - 将拼接结果保存到系统相册 `Pictures/liKePic拼图工坊`
 - 在“关于”页面查看版本信息并检查更新
 
+## 海报
+
+![](https://github.com/likeyun/likePic/blob/main/assets/likepic-promo-poster.png?raw=true)
+
 ## 构建
 
 需要 JDK 17 和 Android SDK（API 35）。项目包含 Gradle Wrapper（Gradle 8.10.2）。
